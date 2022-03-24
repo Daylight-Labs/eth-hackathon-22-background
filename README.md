@@ -1,1 +1,1 @@
-# eth-hackathon-22-background
+# Background Network Eth Denver 2022 Hackathon Submission
